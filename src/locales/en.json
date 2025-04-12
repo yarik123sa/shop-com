@@ -1,11 +1,89 @@
 {
+
+
+  "header":{
+  "headerText": "Sign up and get 20% off to your first order.",
+  "headerLink":"Sign Up Now",
   "menu": {
-    "home": "Home page",
-    "contacts": "Contacts page"
+    "shop": "Shop",
+    "sale": "On Sale",
+    "arrivals":"New Arrivals",
+    "brands":"Brands",
+    "placeholder": "Search for products..."
+  }
+  },
+  "mainPage":{
+    "mainTitle":"FIND CLOTHES THAT MATCHES YOUR STYLE",
+    "mainSubtitle":"Browse through our diverse range of meticulously crafted garments, designed to bring out your individuality and cater to your sense of style.",
+
+
+    "mainReviews":{
+      "mainReviews1":"International Brands",
+      "mainReviews2":"High-Quality Products",
+      "mainReviews3":"Happy Customers"
+
+    }
+  },
+
+  "footer":{
+    "company":{
+      "about":"About ",
+
+      "features":"Features",
+
+      "works":"Works" ,
+
+      "career":"Career"
+    },
+    "help":{
+      "CustomerSupport":"Customer Support",
+      "deliveryDetails" :" Delivery Details",
+      "termsConditions" :   "Terms & Conditions",
+      "privacyPolicy" :"Privacy Policy"
+    },
+    "recourses":{
+      "freeBook":"  Free eBook",
+      "develTutorials":"   Development Tutorial",
+      "Blog":"How to - Blog",
+      "YoutubePlaylist":"Youtube Playlist"
+
+
+
+
+
+    }
   },
   "actionTitles": {
     "login": "Login",
+
+    "signUp":"Sign Up",
     "logout": "Logout",
     "addTask": "Add task"
+  },
+
+  "buttons":{
+    "shopNow":"Shop Now",
+    "AddToCart":"Add to Cart",
+    "small":"Small",
+    "medium":"Medium",
+    "large":"Large",
+    "XLarge":"X-Large",
+    "review":"Write a Review",
+    "applyFilter":"Apply Filter"  ,
+    "subscribe":"Subscribe to Newsletter",
+    "checkout":"Go to Checkout",
+    "apply":"Apply"
+
+  },
+  "titles":{
+    "arrivals":"NEW ARRIVALS",
+    "selling":"top selling",
+    "dressStyle":"BROWSE BY dress STYLE",
+    "happyCustomers":"OUR HAPPY CUSTOMERS",
+    "mightLike":"You might also like",
+    "yourCart":"Your cart"
+
+
   }
+
 }
