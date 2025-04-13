@@ -1,11 +1,69 @@
 {
-  "menu": {
-    "home": "Головна сторінка",
-    "contacts": "Контакти"
+  "header": {
+    "headerText": "Зареєструйся та отримай 20% знижки на перше замовлення.",
+    "headerLink": "Зареєструватися зараз",
+    "menu": {
+      "shop": "Магазин",
+      "sale": "Знижки",
+      "arrivals": "Новинки",
+      "brands": "Бренди",
+      "placeholder": "Пошук товарів..."
+    }
+  },
+  "mainPage": {
+    "mainTitle": "ЗНАЙДИ ОДЯГ, ЯКИЙ ВІДОБРАЖАЄ ТВОЙ СТИЛЬ",
+    "mainSubtitle": "Переглянь наш асортимент ретельно створеного одягу, який підкреслить твою індивідуальність та стиль.",
+    "mainReviews": {
+      "mainReviews1": "Міжнародні бренди",
+      "mainReviews2": "Якісна продукція",
+      "mainReviews3": "Задоволені клієнти"
+    }
+  },
+  "footer": {
+    "company": {
+      "about": "Про нас",
+      "features": "Функції",
+      "works": "Як це працює",
+      "career": "Кар'єра"
+    },
+    "help": {
+      "CustomerSupport": "Підтримка клієнтів",
+      "deliveryDetails": "Деталі доставки",
+      "termsConditions": "Умови використання",
+      "privacyPolicy": "Політика конфіденційності"
+    },
+    "recourses": {
+      "freeBook": "Безкоштовна книга",
+      "develTutorials": "Навчальні матеріали",
+      "Blog": "Блог",
+      "YoutubePlaylist": "Плейлист на YouTube"
+    }
   },
   "actionTitles": {
     "login": "Увійти",
+    "signUp": "Зареєструватися",
     "logout": "Вийти",
-    "addTask": "Додати задачу"
+    "addTask": "Додати завдання"
+  },
+  "buttons": {
+    "shopNow": "До магазину",
+    "AddToCart": "Додати до кошика",
+    "small": "Маленький",
+    "medium": "Середній",
+    "large": "Великий",
+    "XLarge": "Дуже великий",
+    "review": "Залишити відгук",
+    "applyFilter": "Застосувати фільтр",
+    "subscribe": "Підписатися на новини",
+    "checkout": "Перейти до оплати",
+    "apply": "Застосувати"
+  },
+  "titles": {
+    "arrivals": "НОВИНКИ",
+    "selling": "ХІТИ ПРОДАЖУ",
+    "dressStyle": "ОБЕРИ СВІЙ СТИЛЬ",
+    "happyCustomers": "НАШІ ЩАСЛИВІ КЛІЄНТИ",
+    "mightLike": "Можливо, тобі сподобається",
+    "yourCart": "Твій кошик"
   }
 }

@@ -10,7 +10,6 @@ import i18n from '@/plugins/i18n.js'
 import MainLayout from "@/layouts/MainLayout.vue";
 
 
-
 /* import the fontawesome core */
 import { library } from '@fortawesome/fontawesome-svg-core'
 
