@@ -1,5 +1,5 @@
 <script setup>
-import mainImg from '@/images/main/mainImg.png'
+import mainImg from '@/images/mainImg.png'
 
 import { useI18n } from 'vue-i18n'
 const { t } = useI18n()
@@ -21,22 +21,22 @@ const { t } = useI18n()
               {{t('buttons.shopNow')}}
             </div>
 
-          <div class="hero__items items-hero">
+          <div class="hero__items items-hero flex gap-10 pt-7">
             <div class="hero__item">
-              <div class="items-hero__title">200+</div>
-              <div class="items-hero__label">International Brands</div>
+              <div class="items-hero__title text-4xl font-bold ">200+</div>
+              <div class="items-hero__label text-gray-400">International Brands</div>
             </div>
             <div class="hero__item">
-              <div class="items-hero__title">2,000++</div>
-              <div class="items-hero__label">High-Quality Products</div>
+              <div class="items-hero__title text-4xl font-bold "  >2,000+</div>
+              <div class="items-hero__label text-gray-400 ">High-Quality Products</div>
 
             </div>
             <div class="hero__item">
-              <div class="items-hero__title">
+              <div class="items-hero__title text-4xl font-bold text">
                 30,000+
 
               </div>
-              <div class="items-hero__label">
+              <div class="items-hero__label text-gray-400 ">
                 Happy Customers
 
               </div>
